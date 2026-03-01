@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^24.11.0",
+    "prettier": "^3.8.1",
+    "remark": "^15.0.1"
+  }
+}
