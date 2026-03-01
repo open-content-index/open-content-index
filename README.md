@@ -1,6 +1,4 @@
-# open-content-index
-
-Open Content Index
+# Open Content Index
 
 Looking for something to watch, listen to, read, or buy? Why should you run the gauntlet of The Algorithm? Take control of your attention.
 
