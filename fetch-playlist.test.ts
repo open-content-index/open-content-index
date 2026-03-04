@@ -50,6 +50,15 @@ describe("parsePlaylistIdFromUrl", () => {
     );
   });
 
+  it("extracts playlist ID from URL with additional query parameters", () => {
+    assert.equal(
+      parsePlaylistIdFromUrl(
+        "https://www.youtube.com/playlist?list=PLOftnzGIKwJB1h6ErEcFJTObuqqGNZPXI&index=1",
+      ),
+      "PLOftnzGIKwJB1h6ErEcFJTObuqqGNZPXI",
+    );
+  });
+
   it("throws on non-playlist URL", () => {
     assert.throws(
       () =>

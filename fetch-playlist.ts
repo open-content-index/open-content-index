@@ -47,7 +47,7 @@ async function main() {
 
 export function parsePlaylistIdFromUrl(url: string): string {
   const match = url.match(
-    /^https:\/\/www\.youtube\.com\/playlist\?list=([^&]+)$/,
+    /^https:\/\/www\.youtube\.com\/playlist\?list=([^&]+)/,
   );
   if (!match) {
     throw new Error(`Invalid YouTube Playlist URL: ${url}`);
