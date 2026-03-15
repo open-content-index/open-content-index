@@ -4,6 +4,8 @@
 
 ## Content
 
+- [The Anjunadeep Edition 586 with Recens](https://www.youtube.com/watch?v=ZGRrKbw8Nbs) (2026-03-12) 1:00:24
+- [The Anjunadeep Edition 585 with DE/AL](https://www.youtube.com/watch?v=V1JBIZkKcXw) (2026-03-05) 1:00:04
 - [The Anjunadeep Edition 584 with HANA b2b Dosem (Live at Explorations)](https://www.youtube.com/watch?v=3Sg6BJsAuf8) (2026-02-26) 3:03:04
 - [The Anjunadeep Edition 582 with Noé Solange](https://www.youtube.com/watch?v=iyXqeWRhjoU) (2026-02-05) 1:00:49
 - [The Anjunadeep Edition 581 with Planet Of Souls](https://www.youtube.com/watch?v=S-c3Ny89JzU) (2026-01-29) 1:02:54
