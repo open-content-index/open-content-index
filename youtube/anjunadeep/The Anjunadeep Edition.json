@@ -3,6 +3,42 @@
   "playlistId": "PLOftnzGIKwJB1h6ErEcFJTObuqqGNZPXI",
   "content": [
     {
+      "videoId": "RlB-CJI13fo",
+      "title": "The Anjunadeep Edition 592 with Steven Weston (Live at Explorations)",
+      "publishedAt": "2026-04-23",
+      "duration_s": 12044
+    },
+    {
+      "videoId": "aCZjddG_r0E",
+      "title": "The Anjunadeep Edition 591 with Eric Luttrell",
+      "publishedAt": "2026-04-16",
+      "duration_s": 3660
+    },
+    {
+      "videoId": "e78Qfs0jNDE",
+      "title": "The Anjunadeep Edition 590 with Melarmony",
+      "publishedAt": "2026-04-09",
+      "duration_s": 3659
+    },
+    {
+      "videoId": "4-T_cARuQ64",
+      "title": "The Anjunadeep Edition 589 with Rossie",
+      "publishedAt": "2026-04-02",
+      "duration_s": 3389
+    },
+    {
+      "videoId": "aBTyUmwuXGw",
+      "title": "The Anjunadeep Edition 588 with Ocean Flor",
+      "publishedAt": "2026-03-26",
+      "duration_s": 3619
+    },
+    {
+      "videoId": "8OCiTr-LU_c",
+      "title": "The Anjunadeep Edition 587 with Kasper Koman",
+      "publishedAt": "2026-03-19",
+      "duration_s": 3625
+    },
+    {
       "videoId": "ZGRrKbw8Nbs",
       "title": "The Anjunadeep Edition 586 with Recens",
       "publishedAt": "2026-03-12",
@@ -19,6 +55,12 @@
       "title": "The Anjunadeep Edition 584 with HANA b2b Dosem (Live at Explorations)",
       "publishedAt": "2026-02-26",
       "duration_s": 10984
+    },
+    {
+      "videoId": "939HKPjsDqo",
+      "title": "The Anjunadeep Edition 583 with Dusky (Live at Anjunadeep Malta)",
+      "publishedAt": "2026-02-12",
+      "duration_s": 10629
     },
     {
       "videoId": "iyXqeWRhjoU",
